@@ -1,0 +1,22 @@
+.nav-link-hover:hover{
+    color: #736ced !important;
+    font-weight: bold;
+}
+.active{
+    color: #736ced !important;
+    font-weight: bolder !important;
+}
+.container{
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x)* .5);
+    padding-left: calc(var(--bs-gutter-x)* .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.parrafo-hero span{
+    color: #736ced;
+    font-weight: bolder
+}
